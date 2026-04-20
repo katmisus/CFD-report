@@ -1,0 +1,6 @@
+  iter=0  res=0.305319
+  iter=200  res=0.000454662
+  iter=400  res=7.7967e-05
+  iter=600  res=1.4978e-05
+  iter=800  res=2.8841e-06
+  iter=929  res=9.95959e-07
