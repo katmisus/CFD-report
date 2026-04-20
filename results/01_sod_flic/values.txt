@@ -1,0 +1,10 @@
+x = 0.6
+  Calculated: rho=0.427403, P=0.303077, u=0.927010
+  Reference : rho=0.4263, P=0.3031, u=0.9274
+  Errors (%) : rho=0.26%, P=0.01%, u=0.04%
+
+x = 0.75
+  Calculated: rho=0.266275, P=0.302949, u=0.926779
+  Reference : rho=0.2656, P=0.3031, u=0.9274
+  Errors (%) : rho=0.25%, P=0.05%, u=0.07%
+
